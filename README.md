@@ -1,1 +1,1 @@
-Src files if you want to cvhange and manipulate it
+Src files if you want to change and manipulate it
